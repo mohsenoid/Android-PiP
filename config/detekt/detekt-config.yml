@@ -1,0 +1,6 @@
+style:
+  MaxLineLength:
+    maxLineLength: 150
+
+  ReturnCount:
+    max: 5

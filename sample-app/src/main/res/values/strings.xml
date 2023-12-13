@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PiP</string>
+    <string name="video_title">Droidcon Berlin 2022</string>
+    <string name="pip_description">Enter Picture in Picture</string>
+</resources>
