@@ -37,7 +37,7 @@ fun MavenPublication.configurePom() {
     pom {
         name.set(project.name)
         packaging = "aar"
-        description.set("Android Picture-in-Picture - ${project.path}")
+        description.set("Android Picture-in-Picture (${project.path})")
         url.set("https://mohsenoid.com")
 
         configureLicense()

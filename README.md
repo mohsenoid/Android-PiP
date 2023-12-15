@@ -48,7 +48,8 @@ Make sure that your PlayerActivity is setup correctly for PiP mode:
 ```xml
     <activity android:name=".PlayerActivity"
         android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
-        android:launchMode="singleTask" android:supportsPictureInPicture="true" />
+        android:launchMode="singleTask"
+        android:supportsPictureInPicture="true" />
 ```
 
 You can inform the PiP library about your player status changes so that it can update the PiP auto
