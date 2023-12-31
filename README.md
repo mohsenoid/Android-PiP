@@ -9,6 +9,9 @@ It also includes a sample app that shows how to use the library.
 
 ![Sample Demo](/sample-demo.gif)
 
+More to learn about Android PiP API:
+https://youtu.be/bvCKd_XctNg
+
 ## Setup
 
 Add the dependencies to your project:
