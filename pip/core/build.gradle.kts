@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.androidLibrary)
     alias(libs.plugins.kotlinAndroid)
-    id("fw-maven-publish")
+    id("publish")
 }
 
 project.ext.set("PUBLICATION_GROUP_ID", "com.mohsenoid.pip")
